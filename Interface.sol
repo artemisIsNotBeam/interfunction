@@ -34,8 +34,8 @@ contract UsingThingy{
     /*
     so to use this follow the thing
     Interface(address).functionDeclared
-
-    so up there it us
+    ok so this is how you actually use it
+    refrence the Interface to see where we declared balanceOf and TransferFrom
 
     ERC20(address).balanceOf(msg.sender);
     */
